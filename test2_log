@@ -1,0 +1,101 @@
+2025-05-20 09:52:05,725 numexpr.utils INFO NumExpr defaulting to 8 threads.
+2025-05-20 09:52:29,281 root INFO this is my info logging
+2025-05-20 09:52:29,283 root ERROR this is my error msg
+2025-05-20 09:52:29,283 root CRITICAL this is my critical
+2025-05-20 09:59:11,257 root INFO we are iterating our list and local var is i
+2025-05-20 09:59:11,258 root INFO we are iterating our list and local var is i
+2025-05-20 09:59:11,258 root INFO we are iterating our list and local var is i
+2025-05-20 09:59:11,258 root INFO we are iterating our list and local var is i
+2025-05-20 09:59:11,258 root INFO we are iterating our list and local var is i
+2025-05-20 09:59:11,258 root INFO i am inside if statement and i am trying to check list type
+2025-05-20 09:59:11,267 root INFO  i am another for loop for lsit inside list element
+2025-05-20 09:59:11,268 root INFO i am inside if element
+2025-05-20 09:59:11,268 root INFO  i am another for loop for lsit inside list element
+2025-05-20 09:59:11,268 root INFO i am inside if element
+2025-05-20 09:59:11,268 root INFO  i am another for loop for lsit inside list element
+2025-05-20 09:59:11,268 root INFO i am inside if element
+2025-05-20 09:59:11,268 root INFO  i am another for loop for lsit inside list element
+2025-05-20 09:59:11,268 root INFO i am inside if element
+2025-05-20 09:59:11,268 root INFO we are iterating our list and local var is i
+2025-05-20 09:59:11,268 root INFO we are iterating our list and local var is i
+2025-05-20 10:05:05,931 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:05,931 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:05,931 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:05,932 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:05,932 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:05,932 root INFO i am inside if statement and i am trying to check list type
+2025-05-20 10:05:05,932 root INFO  i am another for loop for lsit inside list element
+2025-05-20 10:05:05,932 root INFO i am inside if element
+2025-05-20 10:05:05,932 root INFO  i am another for loop for lsit inside list element
+2025-05-20 10:05:05,932 root INFO i am inside if element
+2025-05-20 10:05:05,932 root INFO  i am another for loop for lsit inside list element
+2025-05-20 10:05:05,932 root INFO i am inside if element
+2025-05-20 10:05:05,932 root INFO  i am another for loop for lsit inside list element
+2025-05-20 10:05:05,932 root INFO i am inside if element
+2025-05-20 10:05:05,932 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:05,932 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:22,948 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:22,949 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:22,949 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:22,949 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:22,949 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:22,949 root INFO i am inside if statement and i am trying to check list type[2, 3, 4, 5]
+2025-05-20 10:05:22,949 root INFO  i am another for loop for lsit inside list element
+2025-05-20 10:05:22,949 root INFO i am inside if element
+2025-05-20 10:05:22,949 root INFO  i am another for loop for lsit inside list element
+2025-05-20 10:05:22,949 root INFO i am inside if element
+2025-05-20 10:05:22,949 root INFO  i am another for loop for lsit inside list element
+2025-05-20 10:05:22,949 root INFO i am inside if element
+2025-05-20 10:05:22,949 root INFO  i am another for loop for lsit inside list element
+2025-05-20 10:05:22,950 root INFO i am inside if element
+2025-05-20 10:05:22,950 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:22,950 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:31,877 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:31,877 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:31,877 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:31,877 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:31,878 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:31,878 root INFO i am inside if statement and i am trying to check list type[2, 3, 4, 5]
+2025-05-20 10:05:31,878 root INFO  i am another for loop for lsit inside list element2
+2025-05-20 10:05:31,878 root INFO i am inside if element
+2025-05-20 10:05:31,878 root INFO  i am another for loop for lsit inside list element3
+2025-05-20 10:05:31,878 root INFO i am inside if element
+2025-05-20 10:05:31,878 root INFO  i am another for loop for lsit inside list element4
+2025-05-20 10:05:31,878 root INFO i am inside if element
+2025-05-20 10:05:31,878 root INFO  i am another for loop for lsit inside list element5
+2025-05-20 10:05:31,878 root INFO i am inside if element
+2025-05-20 10:05:31,878 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:05:31,878 root INFO we are iterating our list and local var is i[1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:07:30,005 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:07:30,006 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:07:30,006 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:07:30,006 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:07:30,006 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:07:30,006 root INFO i am inside if statement and i am trying to check list type[2, 3, 4, 5]
+2025-05-20 10:07:30,007 root INFO  i am another for loop for lsit inside list element2
+2025-05-20 10:07:30,007 root INFO i am inside if element
+2025-05-20 10:07:30,007 root INFO  i am another for loop for lsit inside list element3
+2025-05-20 10:07:30,007 root INFO i am inside if element
+2025-05-20 10:07:30,007 root INFO  i am another for loop for lsit inside list element4
+2025-05-20 10:07:30,008 root INFO i am inside if element
+2025-05-20 10:07:30,008 root INFO  i am another for loop for lsit inside list element5
+2025-05-20 10:07:30,008 root INFO i am inside if element
+2025-05-20 10:07:30,008 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:07:30,009 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:08:58,684 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:08:58,684 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:08:58,684 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:08:58,684 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:08:58,685 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:08:58,685 root INFO i am inside if statement and i am trying to check list type[2, 3, 4, 5]
+2025-05-20 10:08:58,685 root INFO  i am another for loop for lsit inside list element2
+2025-05-20 10:08:58,685 root INFO i am inside if element
+2025-05-20 10:08:58,685 root INFO  i am another for loop for lsit inside list element3
+2025-05-20 10:08:58,685 root INFO i am inside if element
+2025-05-20 10:08:58,686 root INFO  i am another for loop for lsit inside list element4
+2025-05-20 10:08:58,686 root INFO i am inside if element
+2025-05-20 10:08:58,686 root INFO  i am another for loop for lsit inside list element5
+2025-05-20 10:08:58,686 root INFO i am inside if element
+2025-05-20 10:08:58,686 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:08:58,686 root INFO we are iterating our list and local var is [1, 2, 3, 4, [2, 3, 4, 5], 'wasil', 'sudh']
+2025-05-20 10:08:58,686 root INFO my final result for int is [1, 2, 3, 4, 2, 3, 4, 5] and str is ['wasil', 'sudh']
